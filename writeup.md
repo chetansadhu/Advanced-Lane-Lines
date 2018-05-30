@@ -112,7 +112,7 @@ Sobel gradient is calculated along x orientation for both grayscale image and s-
 For s channel the threshold used is `20` and `100` with kernel size of `7`.
 
 
-<a name="Warping"> </a>
+<a name="warping"> </a>
 Warping
 ---
 Src. points for the warping are loaded from the pickle file dumped previously.
